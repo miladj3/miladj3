@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I'm Hasan 👋</h1>
+<h1 align="center">Hi there, I'm milad 👋</h1>
 
 <h3 align="center">
    <strong>
@@ -72,5 +72,5 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning microservices in depth 
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about .NET Core - Clean Architecture - CQRS - DDD- MicroServices
+- 💬 Ask me about .NET Core - Clean Architecture - CQRS - DDD - MicroServices - angular - javascript - typesript
 - ⚡ Fun fact: It's me, the zombie Microsoft and Samsung:)
