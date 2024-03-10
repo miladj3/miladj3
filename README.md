@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I'm milad 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
 <h3 align="center">
    <strong>
