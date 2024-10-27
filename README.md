@@ -73,3 +73,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about .NET Core - Clean Architecture - CQRS - DDD - MicroServices - angular - javascript - typesript
 - ⚡ Fun fact: It's me, the zombie Microsoft and Samsung:)
+[![](https://visitcount.itsvg.in/api?id=AnitaSobhanian&icon=5&color=10)](https://visitcount.itsvg.in)
