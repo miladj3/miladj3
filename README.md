@@ -77,4 +77,4 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[![](https://visitcount.itsvg.in/api?id=AnitaSobhanian&icon=5&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=miladj3&label=Profile%20Views&icon=1&pretty=true)](https://visitcount.itsvg.in)
