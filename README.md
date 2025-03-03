@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-# ![Github Stats](https://greptile-stats.vercel.app/api/widget/miladj3/stats)
+![Github Stats](https://greptile-stats.vercel.app/api/widget/miladj3/stats)
 <br />
 <br />
 [![](https://visitcount.itsvg.in/api?id=miladj3&label=Profile%20Views&icon=1&pretty=true)](https://visitcount.itsvg.in)
