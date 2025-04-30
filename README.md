@@ -77,6 +77,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/miladj3/stats)
+![alt text](https://markdown-inline-svg.vitalibo.click/svg?source=https://raw.githubusercontent.com/vitalibo/markdown-inline-svg/master/readme.md&name=sample.svg)
 <br />
 <br />
 [![](https://visitcount.itsvg.in/api?id=miladj3&label=Profile%20Views&icon=1&pretty=true)](https://visitcount.itsvg.in)
